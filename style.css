@@ -1,0 +1,55 @@
+/*----------
+BASIC SETUP
+----------*/
+
+:root {
+	--clr-pale-blue: hsl(225, 100%, 94%);
+	--clr-bright-blue: hsl(245, 75%, 52%);
+	--clr-very-pale-blue: hsl(225, 100%, 98%);
+	--clr-desaturated-blue: hsl(224, 23%, 55%);
+	--clr-dark-blue: hsl(223, 47%, 23%);
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+html {
+	font-size: 16px;
+}
+
+body {
+	font-family: "Red Hat Display";
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+}
+
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(5, 1fr);
+	grid-column-gap: 0px;
+	grid-row-gap: 0px;
+}
+
+.hero {
+	grid-area: 1 / 1 / 2 / 2;
+}
+.summary-text {
+	grid-area: 2 / 1 / 3 / 2;
+}
+.plan {
+	grid-area: 3 / 1 / 4 / 2;
+}
+.submit {
+	grid-area: 4 / 1 / 5 / 2;
+}
+.cancel {
+	grid-area: 5 / 1 / 6 / 2;
+}
