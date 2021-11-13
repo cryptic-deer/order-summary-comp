@@ -146,17 +146,6 @@ BUTTONS SETUP
 }
 
 /*----------
-ATTRIBUTION
-----------*/
-.attribution {
-	font-size: 0.7em;
-	color: var(--clr-desaturated-blue);
-}
-.attribution a {
-	color: var(--clr-desaturated-blue);
-}
-
-/*----------
 MEDIA QUERIES FOR SCREENS WIDER THAN 450PX
 ----------*/
 @media (min-width: 450px) {
