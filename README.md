@@ -22,10 +22,10 @@ Users should be able to:
 
 ### Check out my solution
 
-![](screenshots/desktop.png)
 ![](screenshots/mobile.png)
+![](screenshots/desktop.png)
 
-# Link: [Live solution](https://cryptic-deer.github.io/order-summary-comp/)
+- Link to live version: [solution](https://cryptic-deer.github.io/order-summary-comp/)
 
 ## My process
 
