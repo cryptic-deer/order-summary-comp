@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Check out my solution
 
-![](screenshots/desktop.png)
 ![](screenshots/mobile.png)
-<br />
+![](screenshots/desktop.png)
+
 - Link to live version: [solution](https://cryptic-deer.github.io/order-summary-comp/)
 
 ## My process
