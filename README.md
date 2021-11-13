@@ -24,8 +24,8 @@ Users should be able to:
 
 ![](screenshots/desktop.png)
 ![](screenshots/mobile.png)
-
-- [Link](https://cryptic-deer.github.io/order-summary-comp/)
+<br />
+- Link to live version: [solution](https://cryptic-deer.github.io/order-summary-comp/)
 
 ## My process
 
